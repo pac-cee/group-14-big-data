@@ -6,7 +6,7 @@
 3. 26243 Uwineza Assoumpta
 4. 24847 Ngabonziza Frank
 5. 24832 Abome Mvola Cherine Neill Nathalie
-6. Hirwa Landry
+6. 27139 Inema Hirwa Claude Landry
 
 ---
 
