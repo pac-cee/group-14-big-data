@@ -1,12 +1,12 @@
 # Group 14 - Big Data Project
 
 ## Group Members
-1. Pacifique bakundukize 26798
-2. Member 2
-3. Member 3
-4. Member 4
-5. Member 5
-6. Member 6
+1. 26798 Pacifique Bakundukize 
+2. 27320 Twakira Agape Gift Ibrahim
+3. 26243 Uwineza Assoumpta
+4. 24847 Ngabonziza Frank
+5. 24832 Abome Mvola Cherine Neill Nathalie
+6. Hirwa Landry
 
 ---
 
